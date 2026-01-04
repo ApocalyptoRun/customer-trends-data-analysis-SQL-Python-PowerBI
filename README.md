@@ -2,6 +2,8 @@
 
 An end-to-end data analytics project that processes retail shopping data through a full **ETL (Extract, Transform, Load)** pipeline. This project covers data cleaning in Python, storage in PostgreSQL, and final visualization in a Power BI/Tableau dashboard.
 
+<img width="1221" height="670" alt="image" src="https://github.com/user-attachments/assets/68c9e850-f358-4055-8d87-e0ab2befe0bc" />
+
 ## 📊 Project Overview
 
 This project analyzes a dataset of **3,900 customers** to identify purchasing trends and demographic insights. It is divided into three main phases:
