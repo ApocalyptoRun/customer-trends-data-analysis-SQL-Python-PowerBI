@@ -1,7 +1,3 @@
-Here is a clean, professional README file for your GitHub repository. It perfectly balances your Python cleaning process, the SQL analysis, and the final visual dashboard.
-
----
-
 # 🛍️ Customer Behavior Data Pipeline
 
 An end-to-end data analytics project that processes retail shopping data through a full **ETL (Extract, Transform, Load)** pipeline. This project covers data cleaning in Python, storage in PostgreSQL, and final visualization in a Power BI/Tableau dashboard.
